@@ -1,0 +1,5 @@
+puppet-module-lvm-hiera (1.0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Damian Lukowski <damian.lukowski@credativ.de>  Thu, 12 Jun 2014 15:31:27 +0200
