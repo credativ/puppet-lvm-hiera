@@ -1,3 +1,9 @@
+puppet-module-lvm-hiera (1.0.2) unstable; urgency=low
+
+  * Use {} as default params.
+
+ -- Damian Lukowski <damian.lukowski@credativ.de>  Thu, 12 Jun 2014 16:40:55 +0200
+
 puppet-module-lvm-hiera (1.0.1) unstable; urgency=low
 
   * Initial release.
