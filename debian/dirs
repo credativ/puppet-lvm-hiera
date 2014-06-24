@@ -1,1 +1,1 @@
-etc/puppet/modules/lvm-hiera
+usr/share/puppet/modules.available/lvm-hiera
